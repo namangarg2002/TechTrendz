@@ -1,6 +1,5 @@
 # TechTrendz E-Commerce
 
-![TechTrendz Preview](https://techtrendz-e-commerce.netlify.app/)
 
 A modern, responsive e-commerce website built with React, Tailwind CSS, and various animation libraries. This project showcases electronic products with smooth animations and a clean UI.
 
